@@ -1,4 +1,6 @@
 # MINIFETCH
 ALTERNATIVE AND MINIMILASTIC VERSION OF NEOFETCH.
 ----
-    INSTALLITION: git clone
+    INSTALLITION: git clone https://github.com/Naruzzo/MINIFETCH
+    
+    
